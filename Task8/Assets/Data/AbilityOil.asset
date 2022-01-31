@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ca6e520b5b4448bc38663176e7adc0, type: 3}
+  m_Name: AbilityOil
+  m_EditorClassIdentifier: Assembly-CSharp:Configs:AbilityItemyConfig
+  _itemConfig: {fileID: 11400000, guid: ea7726c2b1e04ff4db47a700e6e0e7ec, type: 2}
+  _view: {fileID: 1802015126742805785, guid: d7afd5f9102407d4480061bbaf02fc0b, type: 3}
+  _type: 2
+  value: 20
